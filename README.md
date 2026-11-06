@@ -1,0 +1,1 @@
+# ai_assistant_for_product_cards
